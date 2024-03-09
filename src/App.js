@@ -21,7 +21,6 @@ function App() {
       <Banner />
       <Profile />
       <Portfolio />
-      <Footer />
     </div>
   )
 }

@@ -3,13 +3,10 @@ import { TypeAnimation } from 'react-type-animation';
 
 export default function Banner() {
     return (
-
-        <div
-            id='home'
-            className='section container mx-auto max-w-[1200px] px-3 items-center'>
+        <div id='home' className='section container mx-auto max-w-[1200px] px-3 items-center'>
             <div className='w-full' data-aos='zoom-in'>
                 <div className='block text-center font-secondary font-black text-[30px]'>
-                    <h3>Hello, I am Name</h3>
+                    <h3>Hello, I am LOREM</h3>
                     <div>
                         <TypeAnimation
                             sequence={[
